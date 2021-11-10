@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react_rick_and_morty/static/css/main.d6cad202.chunk.css",
+    "main.js": "/react_rick_and_morty/static/js/main.7324db35.chunk.js",
+    "main.js.map": "/react_rick_and_morty/static/js/main.7324db35.chunk.js.map",
+    "runtime-main.js": "/react_rick_and_morty/static/js/runtime-main.f3d9c1e1.js",
+    "runtime-main.js.map": "/react_rick_and_morty/static/js/runtime-main.f3d9c1e1.js.map",
+    "static/js/2.4d22c36c.chunk.js": "/react_rick_and_morty/static/js/2.4d22c36c.chunk.js",
+    "static/js/2.4d22c36c.chunk.js.map": "/react_rick_and_morty/static/js/2.4d22c36c.chunk.js.map",
+    "static/js/3.e6b351ff.chunk.js": "/react_rick_and_morty/static/js/3.e6b351ff.chunk.js",
+    "static/js/3.e6b351ff.chunk.js.map": "/react_rick_and_morty/static/js/3.e6b351ff.chunk.js.map",
+    "index.html": "/react_rick_and_morty/index.html",
+    "static/css/main.d6cad202.chunk.css.map": "/react_rick_and_morty/static/css/main.d6cad202.chunk.css.map",
+    "static/js/2.4d22c36c.chunk.js.LICENSE.txt": "/react_rick_and_morty/static/js/2.4d22c36c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f3d9c1e1.js",
+    "static/js/2.4d22c36c.chunk.js",
+    "static/css/main.d6cad202.chunk.css",
+    "static/js/main.7324db35.chunk.js"
+  ]
+}
